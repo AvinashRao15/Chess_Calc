@@ -15,7 +15,7 @@ This model uses data from around 800,000 chess online games in order to predict 
 - Finally plotted the data on a chart.
 
 
-## Screenshots
+## Output
 
 ![App Screenshot](Figure_1.png)
 
