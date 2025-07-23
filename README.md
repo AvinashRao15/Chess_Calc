@@ -17,5 +17,5 @@ This model uses data from around 800,000 chess online games in order to predict 
 
 ## Screenshots
 
-![App Screenshot](file:///C:/Users/avina/Downloads/Figure_1.png)
+![App Screenshot](Figure_1.png)
 
